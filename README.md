@@ -2,8 +2,10 @@
 
 I'm Ahmad Malekiha (malex), a DevOps engineer who likes python development and automate the processes using DevOps tools. Welcome to my GitHub profile!
 
+
 :mailbox: Reach me out!
-[![Linkedin Badge](https://img.shields.io/badge/-ahmadmalekiha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-malekiha/) [![Mail Badge](https://img.shields.io/badge/-ahmadmalekiha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmadmalekiha@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Malex-808080?style=flat&labelColor=white&logo=medium&logoColor=black)](https://medium.com/@ahmadmalekiha)
+
+[![Linkedin Badge](https://img.shields.io/badge/-ahmadmalekiha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-malekiha/) [![Mail Badge](https://img.shields.io/badge/-ahmadmalekiha-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmadmalekiha@gmail.com) [![Medium Badge](https://img.shields.io/badge/-Malex-000000?style=flat&labelColor=white&logo=medium&logoColor=black)](https://medium.com/@ahmadmalekiha)
 
 #### Top Technologies
 
